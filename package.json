@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/rezendeneto/moment-with-locales-es6#readme",
   "peerDependencies": {
-    "moment": "2.22.2"
+    "moment": "2.25.3"
   },
 	"resolutions": {
-		"moment": "2.22.2"
+		"moment": "2.25.3"
 	}
 }
