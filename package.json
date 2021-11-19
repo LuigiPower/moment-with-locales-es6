@@ -21,4 +21,7 @@
   "peerDependencies": {
     "moment": "2.24.0"
   }
+	"resolutions": {
+	"moment": "2.24.0"
+	},
 }
